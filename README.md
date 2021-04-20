@@ -38,5 +38,18 @@
        $ python3 -m install flask-bootstrap
        $python3 -m install flask-script
        
-## 1. Run application using this on terminal
-        python3 pass_lock.py
+## Set up API
+ - Go to [News API](https://newsapi.org/)
+ - Create an account to get API-KEY
+ - Copy the API-KEY generated
+
+ ## Creating the start.sh file to tun the app
+ - Create a file and name it start.sh
+ - in the file add this
+
+       export NEWS_API_KEY=<you api key>
+       python3 manage.py server
+    
+
+
+   
