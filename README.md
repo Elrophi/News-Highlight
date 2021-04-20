@@ -49,6 +49,14 @@
 
        export NEWS_API_KEY=<you api key>
        python3 manage.py server
+
+## Run the app now
+On your terminal run
+
+        $ chmod +x start.sh
+        $ ./start.sh
+
+
     
 
 
