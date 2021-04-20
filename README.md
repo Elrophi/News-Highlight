@@ -5,3 +5,13 @@
 >Description
 ### THis is a simple app to look up thousands of sources of news and updates around the world
 ---
+
+## Technology Used: 
+>Bootstrap
+
+>Python
+
+>Flask
+
+>NEWS_API(RESTFUL API)
+---
