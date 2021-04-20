@@ -82,7 +82,7 @@ class Article:
 ---
 
 ### Copyright and License
-[MIT License](https://github.com/Elrophi/Py-pass/blob/master/LICENSE)  
+[MIT License](https://github.com/Elrophi/News-Highlight/blob/master/LICENSE)  
 
 
     
