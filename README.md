@@ -23,7 +23,13 @@
 - bootstrap
 - flask
 
-## 1. Setting up the environment
+## Cloning and opening on compiler
+#### On your terminal run
+
+    $ git clone https://github.com/Elrophi/News-Highlight.git
+    $ cd news-app
+    $ code .
+## 1. Setting up the virtual environment
     - Virtual environment
     - Pip
     - Bootstrap
