@@ -29,12 +29,14 @@
     $ git clone https://github.com/Elrophi/News-Highlight.git
     $ cd news-app
     $ code .
-## 1. Setting up the virtual environment and activating it
+##  Setting up the virtual environment and activating it
     $ python -m venv <name of virtual environment>
     $ source <name of virtual environment>/bin/activate
 
-## 1. clone or download zip file
-        git clone https://github.com/Elrophi/Py-pass.git
-        cd Py-pass
+##  Install flask and modules needed
+       $ python3 -m pip install flask
+       $ python3 -m install flask-bootstrap
+       $python3 -m install flask-script
+       
 ## 1. Run application using this on terminal
         python3 pass_lock.py
