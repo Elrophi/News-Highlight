@@ -29,10 +29,9 @@
     $ git clone https://github.com/Elrophi/News-Highlight.git
     $ cd news-app
     $ code .
-## 1. Setting up the virtual environment
-    - Virtual environment
-    - Pip
-    - Bootstrap
+## 1. Setting up the virtual environment and activating it
+    $ python -m venv <name of virtual environment>
+    $ source <name of virtual environment>/bin/activate
 
 ## 1. clone or download zip file
         git clone https://github.com/Elrophi/Py-pass.git
