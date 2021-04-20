@@ -76,6 +76,9 @@ class Article:
 
 ```
 
+### Email: Elrophi@gmail.com
+### Contact: 0700 000 000
+
 
     
 
