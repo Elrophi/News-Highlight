@@ -58,7 +58,7 @@ On your terminal run
 
 ## Test the application
 
-        $ python3 manage.py tests
+        $ python3 manage.py test
 
 ## Code used sample
 ```python
